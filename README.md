@@ -86,7 +86,7 @@ Blinkit Analysis/
 
 ## 👩‍💻 About Me
 
-**Kavita** – Aspiring Data Analyst  
+**Kavita** 
 💼 BSc Hons. Computer Science | Delhi University  
 📫 Email: kavita355321@gmail.com  
 📍 New Delhi, India
